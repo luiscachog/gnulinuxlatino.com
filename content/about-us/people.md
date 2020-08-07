@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Nosotros"
-subtitle = ""
+subtitle = "Entusiastas de GNU/Linux."
 
 [content]
   # Choose which groups/teams of users to display.
