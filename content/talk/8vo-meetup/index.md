@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Sotolito Linux para Raspberry"
-event: "Sotolito Linux para Raspberry"
+title: "Sotolito Linux. Distribución para Raspberry 64 bits"
+event: "Sotolito Linux. Distribución para Raspberry 64 bits"
 event_url: https://www.facebook.com/gnulinuxlatino/
 location: https://www.facebook.com/gnulinuxlatino/
 address:
@@ -66,3 +66,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: ["1ra-temporada-meetups"]
 ---
+
+{{< youtube nLhqsLFs-2k >}}

@@ -66,3 +66,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: ["1ra-temporada-meetups"]
 ---
+{{< youtube YYUsm2Yoxz8 >}}
