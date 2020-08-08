@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Animación 3D con Blender"
-event: "Animación 3D con Blender"
+title: "Animación 3D con Blender 3D"
+event: "Animación 3D con Blender 3D"
 event_url: https://www.facebook.com/gnulinuxlatino/
 location: https://www.facebook.com/gnulinuxlatino/
 address:
@@ -50,7 +50,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:
+url_video: https://www.youtube.com/watch?v=ihkKiTqheJo
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

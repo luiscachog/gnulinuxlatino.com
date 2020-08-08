@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "3er Meetup"
-event:
+title: "Recuperación de Equipo con Linux"
+event: "Recuperación de Equipo con Linux"
 event_url: https://www.facebook.com/gnulinuxlatino/
 location: https://www.facebook.com/gnulinuxlatino/
 address:
@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2020-06-17T21:21:56-05:00
 
 authors: []
-tags: []
+tags: [GNU/Linux]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -50,7 +50,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:
+url_video: https://www.youtube.com/watch?v=Ic8hFauTOxI
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
