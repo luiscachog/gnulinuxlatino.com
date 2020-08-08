@@ -5,7 +5,7 @@ title: "Primera Temporada de Meetups"
 summary: ""
 authors: []
 tags: [Meetup]
-categories: [Community]
+categories: [Communidad]
 date: 2020-05-01T23:25:12-05:00
 
 # Optional external URL for project (replaces project detail page).
