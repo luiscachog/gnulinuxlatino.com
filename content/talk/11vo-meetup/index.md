@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "11vo Meetup"
-event:
+event: "Estaciones de Radio con GNU/Linux"
 event_url: https://www.facebook.com/gnulinuxlatino/
 location: https://www.facebook.com/gnulinuxlatino/
 address:
@@ -11,8 +11,8 @@ address:
   region:
   postcode:
   country:
-summary: "Pendiente"
-abstract: "Pendiente"
+summary: "Alejandro Sánchez (aka Lurkan) nos platicará acerca de un interesante hobby que trabaja con software libre: Radiocomunicación."
+abstract: "En dicha conferencia aprenderemos bastante acerca de este ecosistema con nuestro invitado de lujo. "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -21,10 +21,10 @@ date_end: 2020-08-11T23:00:00-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-08-06T21:19:36-05:00
+publishDate: 2020-08-08T21:19:36-05:00
 
 authors: []
-tags: []
+tags: [GNU/Linux, Radioaficionado, Radiocomunicación]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -41,7 +41,7 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Follow
-  url: https://twitter.com/
+  url: https://twitter.com/lurkan
   icon_pack: fab
   icon: twitter
 
@@ -50,7 +50,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:
+url_video: https://www.youtube.com/watch?v=jDznTgjuC44
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -66,3 +66,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: ["1ra-temporada-meetups"]
 ---
+
+{{< youtube jDznTgjuC44 >}}
