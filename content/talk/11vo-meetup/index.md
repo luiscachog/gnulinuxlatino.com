@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2020-08-08T21:19:36-05:00
 
 authors: []
-tags: [GNU/Linux, Radioaficionado, Radiocomunicación]
+tags: [ GNU/Linux, Radioaficionado, Radiocomunicación]
 
 # Is this a featured talk? (true/false)
 featured: false

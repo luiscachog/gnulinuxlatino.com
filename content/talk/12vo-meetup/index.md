@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2020-08-13T21:19:36-05:00
 
 authors: []
-tags: [GNU/Linux, Manjaro]
+tags: [GNU/Linux, Manjaro Linux]
 
 # Is this a featured talk? (true/false)
 featured: false
