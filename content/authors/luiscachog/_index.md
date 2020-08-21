@@ -14,51 +14,62 @@ role: Security Systems Administrator III @Rackspace
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+  - name: Rackspace
+    url: "https://rackspace.com"
+  - name: Contributor at Kubernetes
+    url: "https://www.kubernetes.io"
+  - name: Hashicorp Meetup Organizer
+    url: "https://www.meetup.com/San-Antonio-HashiCorp-User-Group"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Administrador de Seguridad de Sistemas en Rackspace | Practicante de DevOps | Entusiasta de Kubernetes | Ninja de Ansible | Novato en Ciencia de Datos
 
 interests:
-- Kubernetes
-- Ansible
-- Data Science
+  - Automatización
+  - Ciencia de Datos
+  - Ingeniería del Caos
+  - Cloud Native
+  - Software Libre
+  - Site Reliabilty Engineering
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+# education:
+#   courses:
+#   - course: PhD in Artificial Intelligence
+#     institution: Stanford University
+#     year: 2012
+#   - course: MEng in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2009
+#   - course: BSc in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/k4ch0
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/k4ch0
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/k4ch0
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/luiscachog
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/k4ch0
+  - icon: keybase
+    icon_pack: fab
+    link: https://keybase.io/luiscachog
+  - icon: redhat
+    icon_pack: fab
+    link: https://www.redhat.com/rhtapps/services/verify?certId=140-122-987
+  - icon: linux
+    icon_pack: fab
+    link: https://luiscachog.io
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:luiscachog@gmail.com" # For a direct email link, use "mailto:test@example.org".
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "luiscachog@gmail.com"
@@ -69,6 +80,10 @@ user_groups:
 - DevOps
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+#### \$whoami
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Soy Administrator de Seguridad de Sistemas con habilidades de Cloud/DevOps/Seguridad, estoy trabajando para [Rackspace](https://rackspace.com), donde me enfoco principalmente en aprender y aplicar las técnicas de Cloud Native en ambientes multicloud usando metódologias ágiles.
+Soy contribuidor de [proyectos de Software Libre](https://luiscachog.io) y me defino a mi mismo como un entusiasta de Linux que ama trabajar y exprimentar con tecnologías de Software Libre mientras aprendo y trato de aplicar las mejores prácticas.
+Aprendo cosas nuevas cada día y me gusta compartirlo.
+
+:dog: :video_game: :football: :soccer:
