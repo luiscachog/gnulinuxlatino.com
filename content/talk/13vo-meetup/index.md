@@ -11,8 +11,8 @@ address:
   region:
   postcode:
   country:
-summary: "Pendiente"
-abstract: "Pendiente"
+summary: "¿Te encuentras trabajando desde casa? ¿Cómo te ha afectado el Covid-19 en el trabajo? Estás y otras preguntas más serán solucionadas a través del uso de Software Libre."
+abstract: "León Ramos de Creadores Digitales nos dará una interesante platica sobre cómo poder adaptar nuestras empresas a la nueva normalidad."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
