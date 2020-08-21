@@ -21,14 +21,21 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - name: Checkout code
+    - name: checkout code
       uses: actions/checkout@v2
       with:
+        fetch-depth: 0
         submodules: true
         lfs: true
         
-    - name: Build site with hugo
-      uses: lowply/build-hugo@v0.74.1
+    - name: setup hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.74.2'
+        extended: true
+        
+    - name: build site
+      run: hugo --minify
 
     - name: ssh setup
       env:
