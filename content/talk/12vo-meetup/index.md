@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2020-08-13T21:19:36-05:00
 
 authors: []
-tags: [GNU/Linux, Manjaro]
+tags: [GNU/Linux, Manjaro Linux]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -50,7 +50,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:
+url_video: https://www.youtube.com/watch?v=tCOh2iCuod4
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -66,3 +66,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: ["1ra-temporada-meetups"]
 ---
+
+{{< youtube tCOh2iCuod4 >}}
