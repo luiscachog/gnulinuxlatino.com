@@ -50,5 +50,5 @@ jobs:
         chmod -R 700 ~/.ssh
         
     - name: rsync site
-        run: |
-          rsync -avz -e ssh --delete public/ root@104.239.175.248:/usr/share/nginx/html
+      run: |
+        rsync -avz -e ssh --delete public/ root@104.239.175.248:/usr/share/nginx/html
