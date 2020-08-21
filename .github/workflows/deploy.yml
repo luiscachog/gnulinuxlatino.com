@@ -51,4 +51,4 @@ jobs:
         
     - name: rsync site
         run: |
-          rsync -avz -e ssh --delete public/ ${RSYNC_USER}@${HOST}:${DOCUMENT_ROOT}
+          rsync -avz -e ssh --delete public/ root@104.239.175.248:/usr/share/nginx/html
