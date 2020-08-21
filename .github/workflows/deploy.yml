@@ -1,0 +1,54 @@
+# This is a basic workflow to help you get started with Actions
+
+name: deploy
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  deploy:
+    name: deploy site
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v2
+
+    # Runs a single command using the runners shell
+    - name: Run a one-line script
+      run: echo Hello, world!
+
+    # Runs a set of commands using the runners shell
+    - name: Run a multi-line script
+      run: |
+        echo Add other actions to build,
+        echo test, and deploy your project.
+        
+    - name: Build site with hugo
+      run: |
+        sudo snap install hugo --channel=extended
+        hugo
+        
+    - name: ssh setup
+      env:
+        key: DEPLOY_KEY: ${{ secrets.deploy_key }}
+        key: KNOWN_HOSTS: ${{ secrets.known_hosts }}
+      run: |
+        mkdir -p ~/.ssh
+        echo "${KNOWN_HOSTS}" >> ~/.ssh/known_hosts
+        echo "${DEPLOY_KEY}" >> ~/.ssh/deploy_key
+        echo "IdentityFile ~/.ssh/deploy_key" >> ~/.ssh/config
+        chmod -R 700 ~/.ssh
+        
+    - name: rsync site
+        run: |
+          rsync -avz -e ssh --delete public/ ${RSYNC_USER}@{HOST}:${DOCUMENT_ROOT}
