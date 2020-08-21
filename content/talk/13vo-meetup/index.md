@@ -41,7 +41,7 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Follow
-  url: https://twitter.com/
+  url: https://twitter.com/fulvous
   icon_pack: fab
   icon: twitter
 
