@@ -27,13 +27,13 @@ jobs:
         fetch-depth: 0
         submodules: true
         lfs: true
-        
+
     - name: setup hugo
       uses: peaceiris/actions-hugo@v2
       with:
         hugo-version: '0.74.2'
         extended: true
-        
+
     - name: build site
       run: hugo --minify
 
@@ -49,5 +49,11 @@ jobs:
         chmod -R 700 ~/.ssh
 
     - name: rsync site
-      run: |
-        rsync -avz -e ssh --delete public/ root@104.239.175.248:/usr/share/nginx/html/public
+      uses: burnett01/rsync-deployments@4.1
+      with:
+        switches: -avzr -e ssh --delete
+        path: public/
+        remote_path: /usr/share/nginx/html
+        remote_host: 104.239.175.248
+        remote_user: debian
+        remote_key: ${{ secrets.DEPLOY_KEY }}
