@@ -55,5 +55,5 @@ jobs:
         path: public/
         remote_path: /usr/share/nginx/html
         remote_host: 104.239.175.248
-        remote_user: debian
+        remote_user: root
         remote_key: ${{ secrets.DEPLOY_KEY }}
