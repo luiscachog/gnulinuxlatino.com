@@ -22,7 +22,7 @@ organizations:
   url: "https://www.gnulinuxlatino.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Desarrollador Apps Móviles React Native :iphone: | Linuxero :penguin: | CTO en ideas Happy :computer: | Atlantista :horse:  | Fiera :lion: | Host en @Godinezports :soccer: | Host en @GNULinuxLatino :penguin: |
+bio: Administrador de Seguridad de Sistemas en Rackspace | Practicante de DevOps | Entusiasta de Kubernetes | Ninja de Ansible | Novato en Ciencia de Datos
 
 interests:
 - Software Libre
