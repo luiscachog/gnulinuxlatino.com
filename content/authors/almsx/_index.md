@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alberto Luebbert M.
+title: Alberto Luebbert
 
 # Username (this should match the folder name)
 authors:
@@ -22,7 +22,7 @@ organizations:
   url: "https://www.gnulinuxlatino.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Administrador de Seguridad de Sistemas en Rackspace | Practicante de DevOps | Entusiasta de Kubernetes | Ninja de Ansible | Novato en Ciencia de Datos
+# bio: Administrador de Seguridad de Sistemas en Rackspace | Practicante de DevOps | Entusiasta de Kubernetes | Ninja de Ansible | Novato en Ciencia de Datos
 
 interests:
 - Software Libre
@@ -71,9 +71,7 @@ email: "alberto@ideashappy.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Mobile
-- Technical Lead
-- Linux
+- DevOps
 ---
 
 Hola! Soy Alberto Luebbert y puedes decirme … Alberto. Nací en 1987 bajo el signo de Tauro en el Distrito Federal hoy Ciudad de México. Estudie Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores del Oriente del Estado de México.
