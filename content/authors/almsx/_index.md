@@ -32,17 +32,17 @@ interests:
 - StandUp Comedy
 
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+# education:
+#   courses:
+#   - course: PhD in Artificial Intelligence
+#     institution: Stanford University
+#     year: 2012
+#   - course: MEng in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2009
+#   - course: BSc in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,7 +71,9 @@ email: "alberto@ideashappy.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- DevOps
+- Mobile
+- Technical Lead
+- Linux
 ---
 
 Hola! Soy Alberto Luebbert y puedes decirme … Alberto. Nací en 1987 bajo el signo de Tauro en el Distrito Federal hoy Ciudad de México. Estudie Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores del Oriente del Estado de México.
