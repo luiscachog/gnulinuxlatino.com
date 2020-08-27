@@ -45,7 +45,6 @@ jobs:
         echo "${DEPLOY_KEY}" >> ~/.ssh/deploy_key
         echo "IdentityFile ~/.ssh/deploy_key" >> ~/.ssh/config
         chmod -R 700 ~/.ssh
-
     - name: rsync site
       uses: burnett01/rsync-deployments@4.1
       with:
