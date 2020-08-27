@@ -7,8 +7,6 @@ name: deploy
 on:
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -63,6 +61,5 @@ jobs:
       with:
         algolia_app_id: '${{ secrets.ALGOLIA_APP_ID }}'
         algolia_apikey: '${{ secrets.ALGOLIA_APIKEY }}'
-        algolia_index_name: '${{ secrets.ALGOLIA_INDEX_NAME }}' 
+        algolia_index_name: '${{ secrets.ALGOLIA_INDEX_NAME }}'
         file: 'public/index.json'
-      
