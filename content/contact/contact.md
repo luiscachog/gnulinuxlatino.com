@@ -27,11 +27,13 @@ Nos puedes contactar para cualquier tema relacionado a GNU/Linux o sobre la comu
 Nuestros perfiles de social media:
 
 - {{< icon name="twitter" pack="fab" >}}  Twitter [@gnulinuxlatino](https://twitter.com/gnulinuxlatino)
-- {{< icon name="facebook" pack="fab" >}}  Facebook [gnulinuxlatino](https://www.facebook.com/gnulinuxlatino/)
+- {{< icon name="facebook" pack="fab" >}}  Facebook [gnulinuxlatino](https://www.facebook.com/gnulinuxlatino)
+- {{< icon name="youtube" pack="fab" >}}  Youtube [gnulinuxlatino](https://www.youtube.com/gnulinuxlatino)
+
 
 En otros medios:
 
 - {{< icon name="github" pack="fab" >}}  GitHub [@gnulinuxlatino](https://github.com/gnulinuxlatino/)
-- {{< icon name="telegram" pack="fab" >}}  Telegram [@gnu_linux_latino](https://telegram.me/@gnu_linux_latino)
+- {{< icon name="telegram" pack="fab" >}}  Telegram [@gnu_linux_latino](https://t.me/@gnu_linux_latino)
 
 O si lo deseas puedes escribirnos un correo eléctronico a {{< icon name="envelope" pack="fas" >}}  [gnulinuxlatino@gmail.com](mailto:gnulinuxlatino@gmail.com)
