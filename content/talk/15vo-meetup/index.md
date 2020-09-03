@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "14vo Meetup"
+title: "15vo Meetup"
 event:
 event_url: https://www.facebook.com/gnulinuxlatino/
 location: https://www.facebook.com/gnulinuxlatino/
@@ -11,20 +11,20 @@ address:
   region:
   postcode:
   country:
-summary: "¿Te gusta el Diseño gráfico? En esta ocasión Maria Leandro Tatica nos platicará acerca de Herramientas de Diseño con Software Libre."
-abstract: "Durante la charla nos mostrará herramientas que podrás utilizar como diseñador para trabajar en tu entorno y diseñar espectaculares trabajos."
+summary: "¿Quieres montar un sitio web para tu empresa o negocio? Puedes hacerlo con Drupal."
+abstract: "David Valdez (@gnuget) nos platicará como hacerlo utilizando el framework Drupal así como también poder contribuir al desarrollo de este exitoso proyecto."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-09-01T21:00:00-05:00
-date_end: 2020-09-01T23:00:00-05:00
+date: 2020-09-08T21:00:00-05:00
+date_end: 2020-09-08T23:00:00-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-08-27T21:19:36-05:00
+publishDate: 2020-09-03T13:32:36-05:00
 
 authors: []
-tags: [GNU/Linux, Gimp, Inkscape, DarkTable]
+tags: [PHP, Drupal]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -41,7 +41,7 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Follow
-  url: https://twitter.com/taticadbb
+  url: https://twitter.com/gnuget
   icon_pack: fab
   icon: twitter
 
@@ -50,7 +50,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video: https://www.youtube.com/watch?v=FPQmx3lyTKE
+url_video: 
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -66,5 +66,3 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: ["1ra-temporada-meetups"]
 ---
-
-{{< youtube FPQmx3lyTKE >}}
