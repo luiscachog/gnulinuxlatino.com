@@ -34,6 +34,6 @@ Nuestros perfiles de social media:
 En otros medios:
 
 - {{< icon name="github" pack="fab" >}}  GitHub [@gnulinuxlatino](https://github.com/gnulinuxlatino/)
-- {{< icon name="telegram" pack="fab" >}}  Telegram [@gnu_linux_latino](https://t.me/@gnu_linux_latino)
+- {{< icon name="telegram" pack="fab" >}}  Telegram [@gnu_linux_latino](https://t.me/gnu_linux_latino)
 
 O si lo deseas puedes escribirnos un correo eléctronico a {{< icon name="envelope" pack="fas" >}}  [gnulinuxlatino@gmail.com](mailto:gnulinuxlatino@gmail.com)
