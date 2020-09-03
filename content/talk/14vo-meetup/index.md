@@ -41,7 +41,7 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Follow
-  url: https://twitter.com/taticadbb
+  url: https://twitter.com/tatadbb
   icon_pack: fab
   icon: twitter
 
