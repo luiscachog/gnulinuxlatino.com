@@ -114,7 +114,8 @@ email = "gnulinuxlatino@gmail.com"
 contact_links = [
   # {icon = "twitter", icon_pack = "fab", name = "Nuestro Twitter", link = "https://twitter.com/gnulinuxlatino"},
   # {icon = "github", icon_pack = "fab", name = "Nuestro GitHub", link = "https://github.com/gnulinuxlatino/"},
-  # {icon = "telegram", icon_pack = "fab", name = "Grupo de Telegram", link = "https://telegram.me/@gnu_linux_latino"}
+  # {icon = "telegram", icon_pack = "fab", name = "Grupo de Telegram", link = "https://telegram.me/gnu_linux_latino"},
+  # {icon = "youtube", icon_pack = "fab", name = "Nuestro Canal en Youtube", link = "https://www.youtube.com/gnulinuxlatino"}
   ]
 
 ############################
@@ -279,7 +280,7 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = ""
+  google_analytics = "UA-177331981-1"
   google_tag_manager = ""
 
 ############################
