@@ -33,7 +33,9 @@ jobs:
         extended: true
 
     - name: build site
-      run: hugo --minify
+      env:
+        HUGO_ENV: "production"
+      run: hugo --gc --minify --buildFuture
 
     - name: ssh setup
       env:
