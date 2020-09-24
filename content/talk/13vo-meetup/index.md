@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "13vo Meetup"
-event: "¿Cómo sobrevivir a la Nueva Normalidad con Software Libre"
+title: "¿Cómo sobrevivir a la Nueva Normalidad con Software Libre?"
+event: "¿Cómo sobrevivir a la Nueva Normalidad con Software Libre?"
 event_url: https://www.facebook.com/gnulinuxlatino/
 location: https://www.facebook.com/gnulinuxlatino/
 address:
