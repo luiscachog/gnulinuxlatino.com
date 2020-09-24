@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "15vo Meetup"
-event:
+title: "Sitios Web con Drupal y como contribuir con Drupal"
+event: "Sitios Web con Drupal y como contribuir con Drupal"
 event_url: https://www.facebook.com/gnulinuxlatino/
 location: https://www.facebook.com/gnulinuxlatino/
 address:
@@ -50,7 +50,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video: 
+url_video: https://www.youtube.com/watch?v=Fl--V9issbU
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -66,3 +66,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: ["1ra-temporada-meetups"]
 ---
+
+{{< youtube v=Fl--V9issbU >}}

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "11vo Meetup"
+title: "Estaciones de Radio con GNU/Linux"
 event: "Estaciones de Radio con GNU/Linux"
 event_url: https://www.facebook.com/gnulinuxlatino/
 location: https://www.facebook.com/gnulinuxlatino/

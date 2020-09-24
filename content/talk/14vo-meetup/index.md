@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "14vo Meetup"
-event:
+title: "Diseño Gráfico con Software Libre"
+event: "Diseño Gráfico con Software Libre"
 event_url: https://www.facebook.com/gnulinuxlatino/
 location: https://www.facebook.com/gnulinuxlatino/
 address:
