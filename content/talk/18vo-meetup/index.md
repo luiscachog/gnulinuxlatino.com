@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "laboratorio de Desarrollo con Software Libre"
-event: "Laboratorio de Desarrollo con Software Libre"
+title: "Mi experiencia como mujer en el mundo del Software Libre"
+event: "Mi experiencia como mujer en el mundo del Software Libre"
 event_url: https://www.facebook.com/gnulinuxlatino/
 location: https://www.facebook.com/gnulinuxlatino/
 address:
@@ -11,20 +11,19 @@ address:
   region:
   postcode:
   country:
-summary: "¿Te apasiona el mundo del Desarrollo? ¡Debes tener un laboratorio para probar tu Software!
-Diego Hernández estará con nosotros platicando de cómo tener el propio para ti y tu equipo de trabajo."
+summary: "Roxana Stallman es nuestra invitada del próximo meetup. Nos platicará acerca de su experiencia en el mundo del Software Libre y cómo puede apoyarte para tus estudios y trabajo actual."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-09-22T21:00:00-05:00
-date_end: 2020-09-22T23:00:00-05:00
+date: 2020-09-29T21:00:00-05:00
+date_end: 2020-09-29T23:00:00-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-09-18T17:11:01-05:00
+publishDate: 2020-09-26T16:24:01-05:00
 
 authors: []
-tags: [GNU/Linux, Software, DevOps]
+tags: [GNU/Linux, Software]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -41,7 +40,7 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Follow
-  url: https://twitter.com/dieg0x0
+  url: https://twitter.com/black_mamba
   icon_pack: fab
   icon: twitter
 
@@ -50,7 +49,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video: https://www.youtube.com/watch?v=76-yPZzhsKY
+url_video: 
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -66,5 +65,3 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: ["1ra-temporada-meetups"]
 ---
-
-{{< youtube v=76-yPZzhsKY >}}
