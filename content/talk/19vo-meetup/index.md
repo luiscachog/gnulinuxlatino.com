@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Mi experiencia como mujer en el mundo del Software Libre"
-event: "Mi experiencia como mujer en el mundo del Software Libre"
+title: "Programación con PHP y NodeJS"
+event: "Programación con PHP y NodeJS"
 event_url: https://www.facebook.com/gnulinuxlatino/
 location: https://www.facebook.com/gnulinuxlatino/
 address:
@@ -11,19 +11,20 @@ address:
   region:
   postcode:
   country:
-summary: "Roxana Stallman es nuestra invitada del próximo meetup. Nos platicará acerca de su experiencia en el mundo del Software Libre y cómo puede apoyarte para tus estudios y trabajo actual."
+summary: "Claudio Morales (a.k.a @pronuer) estará esta noche con nosotros platicando sobre Programación con PHP y NodeJS. Aprende 
+con nosotros los mejores trucos sobre estos lenguajes de programación para tu próximo proyecto."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-09-29T21:00:00-05:00
-date_end: 2020-09-29T23:00:00-05:00
+date: 2020-09-06T21:00:00-05:00
+date_end: 2020-09-06T23:00:00-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-09-26T16:24:01-05:00
+publishDate: 2020-09-06T03:22:01-05:00
 
 authors: []
-tags: [GNU/Linux, Software]
+tags: [GNU/Linux, NodeJS, PHP]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -40,7 +41,7 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Follow
-  url: https://twitter.com/black_mamba
+  url: https://twitter.com/pronuer
   icon_pack: fab
   icon: twitter
 
@@ -49,7 +50,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video: https://www.youtube.com/watch?v=S1AbS_6tVPc
+url_video: 
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -65,5 +66,3 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: ["1ra-temporada-meetups"]
 ---
-
-{{< youtube v=S1AbS_6tVPc >}}
