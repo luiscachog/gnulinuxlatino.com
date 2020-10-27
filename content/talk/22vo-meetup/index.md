@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Programación con PHP y NodeJS"
-event: "Programación con PHP y NodeJS"
+title: "Hablemos de Hardware Libre"
+event: "Hablemos de Hardware Libre"
 event_url: https://www.facebook.com/gnulinuxlatino/
 location: https://www.facebook.com/gnulinuxlatino/
 address:
@@ -11,19 +11,19 @@ address:
   region:
   postcode:
   country:
-summary: "Claudio Morales (a.k.a @pronuer) estará esta noche con nosotros platicando sobre Programación con PHP y NodeJS. Aprende con nosotros los mejores trucos sobre estos lenguajes de programación para tu próximo proyecto."
+summary: "Mariano Rentería (@marianorenteria) de PHP México visitará el Meetup de GNU Linux Latino para platicarnos sobre la Creación de un SaaS utilizando Software Libre."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-10-06T21:00:00-05:00
-date_end: 2020-10-06T23:00:00-05:00
+date: 2020-10-27T21:00:00-05:00
+date_end: 2020-10-27T23:00:00-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-10-06T03:22:01-05:00
+publishDate: 2020-10-27T11:12:01-05:00
 
 authors: []
-tags: [GNU/Linux, NodeJS, PHP]
+tags: [GNU/Linux, SaaS, PHP]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -40,7 +40,7 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Follow
-  url: https://twitter.com/pronuer
+  url: https://twitter.com/marianorenteria
   icon_pack: fab
   icon: twitter
 
@@ -49,7 +49,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video: https://www.youtube.com/watch?v=7YjBe6XzjQo
+url_video:
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -65,5 +65,3 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: ["1ra-temporada-meetups"]
 ---
-
-{{< youtube v=7YjBe6XzjQo >}}
