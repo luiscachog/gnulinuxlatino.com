@@ -66,4 +66,4 @@ slides: ""
 projects: ["1ra-temporada-meetups"]
 ---
 
-{{< youtube v=fVkr33obAI8 >}}
+{{< youtube fVkr33obAI8 >}}
