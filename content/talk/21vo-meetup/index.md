@@ -63,7 +63,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["1ra-temporada-meetups"]
+projects: ["2da-temporada-meetups"]
 ---
 
 {{< youtube fVkr33obAI8 >}}

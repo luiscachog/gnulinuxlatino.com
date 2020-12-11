@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Hablemos de Hardware Libre"
-event: "Hablemos de Hardware Libre"
+title: "Herramientas y Acciones para Administrar Servidores"
+event: "Herramientas y Acciones para Administrar Servidores"
 event_url: https://www.facebook.com/gnulinuxlatino/
 location: https://www.facebook.com/gnulinuxlatino/
 address:
@@ -11,19 +11,19 @@ address:
   region:
   postcode:
   country:
-summary: "Mariano Rentería (@marianorenteria) de PHP México visitará el Meetup de GNU Linux Latino para platicarnos sobre la Creación de un SaaS utilizando Software Libre."
+summary: "Allan Sandoval (@kurama10) es nuestro invitado de esta semana. Nos platicará sobre la emocionante tarea de administrar servidores. ¡No te lo puedes perder!"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-10-27T21:00:00-05:00
-date_end: 2020-10-27T23:00:00-05:00
+date: 2020-11-13T21:00:00-05:00
+date_end: 2020-11-13T23:00:00-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-10-27T11:12:01-05:00
+publishDate: 2020-10-10T14:12:01-05:00
 
 authors: []
-tags: [GNU/Linux, SaaS, PHP]
+tags: [GNU/Linux, Servidores, SysAdmin]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -40,7 +40,7 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Follow
-  url: https://twitter.com/marianorenteria
+  url: https://twitter.com/kurama10
   icon_pack: fab
   icon: twitter
 

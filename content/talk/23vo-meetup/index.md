@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Hablemos de Hardware Libre"
-event: "Hablemos de Hardware Libre"
+title: "Software Libre en las Universidades Públicas"
+event: "Software Libre en las Universidades Públicas"
 event_url: https://www.facebook.com/gnulinuxlatino/
 location: https://www.facebook.com/gnulinuxlatino/
 address:
@@ -11,19 +11,19 @@ address:
   region:
   postcode:
   country:
-summary: "Mariano Rentería (@marianorenteria) de PHP México visitará el Meetup de GNU Linux Latino para platicarnos sobre la Creación de un SaaS utilizando Software Libre."
+summary: "¿Alguna vez pensaste en qué haya más software libre en tu universidad? ¿Eres catedrático y te gustaría conocer un caso de éxito implementando Software Libre en tu escuela?. Hoy nos visitará en el estudio Manuel Haro (@caxcan70) para platicarnos de un excelente tema: El Software Libre en las Universidades Públicas."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-10-27T21:00:00-05:00
-date_end: 2020-10-27T23:00:00-05:00
+date: 2020-11-03T21:00:00-05:00
+date_end: 2020-11-03T23:00:00-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-10-27T11:12:01-05:00
+publishDate: 2020-10-31T11:12:01-05:00
 
 authors: []
-tags: [GNU/Linux, SaaS, PHP]
+tags: [GNU/Linux, Educación]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -40,7 +40,7 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Follow
-  url: https://twitter.com/marianorenteria
+  url: https://twitter.com/caxcan70
   icon_pack: fab
   icon: twitter
 
