@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "¡Más backend que frontend! con Django y VueJS 1a Parte"
-event: "¡Más backend que frontend! con Django y VueJS 1a Parte"
+title: "¡Más backend que frontend! con Django y VueJS 2a Parte"
+event: "¡Más backend que frontend! con Django y VueJS 2a Parte"
 event_url: https://www.facebook.com/gnulinuxlatino/
 location: https://www.facebook.com/gnulinuxlatino/
 address:
