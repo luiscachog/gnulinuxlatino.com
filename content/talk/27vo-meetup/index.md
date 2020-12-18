@@ -16,7 +16,7 @@ summary: "Andrés Vargas @zodman estará nuevamente con nosotros para continuar 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2020-12-11T21:00:00-05:00
-date_end: 2020-11-04T23:00:00-05:00
+date_end: 2020-12-11T23:00:00-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -49,7 +49,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:
+url_video: https://www.youtube.com/watch?v=TaT3k-V5jAQ
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -65,3 +65,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: ["2da-temporada-meetups"]
 ---
+
+{{< youtube TaT3k-V5jAQ >}}
