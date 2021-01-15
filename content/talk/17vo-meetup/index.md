@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "laboratorio de Desarrollo con Software Libre"
+title: "Laboratorio de Desarrollo con Software Libre"
 event: "Laboratorio de Desarrollo con Software Libre"
 event_url: https://www.facebook.com/gnulinuxlatino/
 location: https://www.facebook.com/gnulinuxlatino/
