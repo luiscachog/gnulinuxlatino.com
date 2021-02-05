@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CKA ¿Cómo pasar el examen de Kubernetes?"
-event: "CKA ¿Cómo pasar el examen de Kubernetes?"
+title: "Hardware Libre en Sistemas Biomédicos para no Biomédicos"
+event: "Hardware Libre en Sistemas Biomédicos para no Biomédicos"
 event_url: https://www.facebook.com/gnulinuxlatino/
 location: https://www.facebook.com/gnulinuxlatino/
 address:
@@ -11,20 +11,20 @@ address:
   region:
   postcode:
   country:
-summary: "¿Utilizas Kubernetes para tus proyectos?, ¿Te gustaría recibir tips para pasar el examen de certificación? Esta noche Gloria Palma (@gloriapalmaglez) nos platicará que retos
-enfrento, cuales son los tips que te ayudarán a pasar de una vez por todas la certificación."
+summary: "¿Te gustaría aprender más sobre Hardware Libre y aplicarlo en Sistemas Biomédicos?\n
+Fernanda Ochoa (@imonsh) es nuestra invitada de esta noche y nos platicará de este importante tema, dando seguimiento a nuestras charlas anteriores en el mundo del Hardware Libre."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-01-29T21:15:00-05:00
-date_end: 2021-01-29T23:15:00-05:00
+date: 2021-02-05T21:15:00-05:00
+date_end: 2021-02-05T23:15:00-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-01-29T12:59:39-05:00
+publishDate: 2021-02-05T13:59:39-05:00
 
 authors: []
-tags: [GNU Linux, Tips, Kubernetes]
+tags: [Hardware Libre]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -41,7 +41,7 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Follow
-  url: https://twitter.com/gloriapalmaglez
+  url: https://twitter.com/imonsh
   icon_pack: fab
   icon: twitter
 
