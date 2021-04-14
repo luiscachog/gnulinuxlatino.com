@@ -15,8 +15,8 @@ summary: 'Gracias por tu paciencia y esperarnos una semana. En este meetup nuest
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-04-07T21:30:00-05:00
-date_end: 2021-04-07T23:30:00-05:00
+date: 2021-04-09T21:30:00-05:00
+date_end: 2021-04-09T23:30:00-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -40,7 +40,7 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
   - name: Follow
-    url: https://twitter.com/tuxxy
+    url: https://sonoralibre.org
     icon_pack: fab
     icon: twitter
 
