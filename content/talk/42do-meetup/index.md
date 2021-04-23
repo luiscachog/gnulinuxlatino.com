@@ -20,7 +20,7 @@ date_end: 2021-04-16T23:30:00-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-04-07T15:23:21-05:00
+publishDate: 2021-04-14T15:23:21-05:00
 
 authors: []
 tags: [Software Libre, Rust, Programación]
