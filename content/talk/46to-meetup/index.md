@@ -49,7 +49,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:
+url_video: https://www.youtube.com/watch?v=I8NBptYAIAY&t=2012s
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -65,3 +65,5 @@ slides: ''
 #   Otherwise, set `projects = []`.
 projects: ['4ta-temporada-meetups']
 ---
+
+{{< youtube e4Vp4RWLeLo >}}
