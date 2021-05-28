@@ -12,8 +12,7 @@ address:
   postcode:
   country:
 summary: 'Cada vez más son las compañías y startups que incorporan procesos de automatización sobre todo al momento de exponer sus APIS a terceros para crear nuevos e interesantes productos.
-Noé Santiago (a.k.a. @noelsito10 estará en el meetup de meetups para platicar acerca de la herramienta WSO2 API Manager donde también utilizaremos Docker. )
-'
+Noé Santiago (a.k.a. @noelsito10 estará en el meetup de meetups para platicar acerca de la herramienta WSO2 API Manager donde también utilizaremos Docker.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
