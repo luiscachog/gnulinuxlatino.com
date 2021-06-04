@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: 'En nuestra trilogia dedicada al lenguaje de programación Java toca turno a nuestro invitado especial de este meetup: Miguel Ángel García, Director de MentoringIT un colegio de enseñanza de tecnología que nos hablará sobre todas las bondades y experiencias que el ha tenido con el producto de Oracle (antes Sun Microsystems).'
+summary: 'En nuestra trilogía dedicada al lenguaje de programación Java toca turno a nuestro invitado especial de este meetup: Miguel Ángel García, Director de MentoringIT un colegio de enseñanza de tecnología que nos hablará sobre todas las bondades y experiencias que el ha tenido con el producto de Oracle (antes Sun Microsystems).'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -49,7 +49,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video: https://www.youtube.com/watch?v=Zbx9P-_NL0Y
+url_video: https://www.youtube.com/watch?v=0csf1mZQyMs
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -66,4 +66,4 @@ slides: ''
 projects: ['4ta-temporada-meetups']
 ---
 
-{{< youtube Zbx9P-_NL0Y >}}
+{{< youtube 0csf1mZQyMs >}}
