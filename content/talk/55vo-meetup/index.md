@@ -49,7 +49,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video: https://www.youtube.com/watch?v=yS_4w8sJMgY
+url_video: https://www.youtube.com/watch?v=W9so3jFh1TI
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -66,4 +66,4 @@ slides: ''
 projects: ['5ta-temporada-meetups']
 ---
 
-{{< youtube yS_4w8sJMgY >}}
+{{< youtube W9so3jFh1TI >}}
