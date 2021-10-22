@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: '¿Alguna vez habías imaginado que .NET corriera bajo Linux? ¡Ahora es posible! Daniel Gómez (@esdanielgomez) nos hablará acerca de como crear estas aplicaciones bajo un sistema operativo linux virtualizado utilizando Azure en la nube.'
+summary: 'En este meetup tendremos a 3 grandes invitados. Julio Guadarrama, Amaury Pedraza y Oscar Juárez quienes en esta charla nos hablaran sobre como hacer analisis a algunos portales de empleo en la Ciudad de México utilizando Software Libre.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
