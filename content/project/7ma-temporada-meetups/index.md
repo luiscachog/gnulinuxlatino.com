@@ -6,7 +6,7 @@ summary: ''
 authors: []
 tags: [Meetup]
 categories: [Communidad]
-date: 2021-03-12T00:00:00-05:00
+date: 2021-12-03T00:00:00-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
